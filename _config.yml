@@ -1,0 +1,28 @@
+name: Aalborg Mancave
+favicon: null
+layout_spectrum: 0.4758028977084905
+typography_spectrum: 0.4204983552917838
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6815764720086008
+  lightness: 0.3422629991546273
+  saturation: 0.20904891449026763
+  rhythmicContrast: 0.9822175733279437
+purpose: []
