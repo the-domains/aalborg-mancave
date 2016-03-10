@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aalborg Mancave]]></title>
+        <description><![CDATA[Aalborg Mancave]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 10:13:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Aalborg Man Cave er en oase for den modne mand med hang til godt selskab, teknik og selvfølgelig god mad og drikke. Al overskud "investeres" i nyt udstyr, så hulen bliver endnu bedre.</p>]]></description>
+            <link>undefinedaf1dc66d-c000-46e3-bb2b-db5cf1378142/index.html</link>
+            <guid isPermaLink="false">af1dc66d-c000-46e3-bb2b-db5cf1378142</guid>
+            <pubDate>Thu, 10 Mar 2016 10:13:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
